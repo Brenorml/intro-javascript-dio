@@ -4,7 +4,7 @@
 
  console.log(numberOne + 2); */
 
- var firstName = 'João';
+ /* var firstName = 'João';
  let lastName = 'Souza'; //escopo global
 
  if(firstName === 'João') {
@@ -14,5 +14,11 @@
     console.log(firstName, lastName);
  }
 
- console.log(firstName, lastName);
+ console.log(firstName, lastName); */
+
+const FIRST_NAME = "Breno";
+
+console.log(FIRST_NAME);
+
+
 
